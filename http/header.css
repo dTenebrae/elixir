@@ -1,10 +1,32 @@
 .header {
   height: 200px;
-  background: #6D7DD2;
-  background-image: url('/img/2penguins.svg');
-  background-repeat: no-repeat;
-  background-size: 300px;
-  background-position: bottom -82px right;
+  background: linear-gradient(#111111, #262626);
+ /* background-image: url('/img/2penguins.svg'); */
+  
+}
+
+.header img {
+  height: 80%;
+}
+
+.background {
+  position: absolute;
+  right: 10%;
+  top: 3%;
+  bottom: 0;
+}
+
+.background img {
+  height: 95%;
+}
+
+.rectangle {
+  position: absolute;
+  bottom: 0;
+}
+
+.rectangle svg {
+  height: 100% !important;
 }
 
 .header {

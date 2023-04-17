@@ -420,7 +420,7 @@ h2 {
 }
 .sidebar nav a:hover,
 .sidebar nav a:hover strong{
-  color: #6d7dd2;
+  color: #CD3D3C;
 }
 .sidebar nav {
   font-size: 0.9em;
@@ -432,7 +432,7 @@ h2 {
 }
 .sidebar nav li.active a {
   color: #eee;
-  color: #6d7dd2;
+  color: #CD3D3C;
   font-weight: 700;
 }
 .sidebar nav ul {
