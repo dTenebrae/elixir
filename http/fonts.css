@@ -1,39 +1,39 @@
-/* ubuntu-regular - cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext */
 @font-face {
-  font-family: 'Ubuntu';
+  font-family: 'Noto Sans Regular';
+  src: url('NotoSans.eot');
+  src: url('NotoSans.eot?#iefix') format('embedded-opentype'),
+  url('NotoSans.woff') format('woff'),
+  url('NotoSans.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
-  font-weight: 400;
-  src: url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-regular.eot'); /* IE9 Compat Modes */
-  src: local('Ubuntu Regular'), local('Ubuntu-Regular'),
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-regular.woff') format('woff'), /* Modern Browsers */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-regular.svg#Ubuntu') format('svg'); /* Legacy iOS */
-}
-/* ubuntu-italic - cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext */
+  }
+
 @font-face {
-  font-family: 'Ubuntu';
-  font-style: italic;
-  font-weight: 400;
-  src: url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-italic.eot'); /* IE9 Compat Modes */
-  src: local('Ubuntu Italic'), local('Ubuntu-Italic'),
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-italic.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-italic.woff') format('woff'), /* Modern Browsers */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-italic.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-italic.svg#Ubuntu') format('svg'); /* Legacy iOS */
-}
-/* ubuntu-700 - cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext */
-@font-face {
-  font-family: 'Ubuntu';
+  font-family: 'Noto Sans Italic';
+  src: url('NotoSans-Italic.eot');
+  src: url('NotoSans-Italic.eot?#iefix') format('embedded-opentype'),
+  url('NotoSans-Italic.woff') format('woff'),
+  url('NotoSans-Italic.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
-  font-weight: 700;
-  src: url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-700.eot'); /* IE9 Compat Modes */
-  src: local('Ubuntu Bold'), local('Ubuntu-Bold'),
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-700.woff') format('woff'), /* Modern Browsers */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-700.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('/fonts/ubuntu/ubuntu-v14-cyrillic_greek_latin_latin-ext_greek-ext_cyrillic-ext-700.svg#Ubuntu') format('svg'); /* Legacy iOS */
-}
+  }
+
+@font-face {
+  font-family: 'Noto Sans Bold';
+  src: url('NotoSans-Bold.eot');
+  src: url('NotoSans-Bold.eot?#iefix') format('embedded-opentype'),
+  url('NotoSans-Bold.woff') format('woff'),
+  url('NotoSans-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  }
+  
+@font-face {
+  font-family: 'Noto Sans Bold Italic';
+  src: url('NotoSans-BoldItalic.eot');
+  src: url('NotoSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+  url('NotoSans-BoldItalic.woff') format('woff'),
+  url('NotoSans-BoldItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+    }
